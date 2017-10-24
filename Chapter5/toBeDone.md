@@ -7,3 +7,4 @@
   ex5: wrote it, compiled it, segfaults when testing
 4.  pg 110: ex7 rewrite readlines to store them in an array instead of being alloc-ed into storage
 5.  pg 114: ex9, rewrite dayOfYear and monthDay with pointers instead of indexing --> not sure what to do with that since the arrays in those are ints not strings
+6.  pg 118: several exercises utilizing argc and argv
